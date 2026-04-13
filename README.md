@@ -4,7 +4,7 @@
 
 ## Sobre este projeto
 
-Este repositório contém minha página pessoal desenvolvida para fins acadêmicos, no contexto da disciplina de Introdução ao Desenvolvimento Web do curso de Bacharelado em Sistemas de Informação.
+Este perfil contém minha página pessoal desenvolvida para fins acadêmicos, no contexto das disciplina do curso de Bacharelado em Sistemas de Informação no IFAL.
 
 **Objetivo**: Criar uma página HTML demonstrando o uso de tags semânticas e boas práticas de acessibilidade.
 
